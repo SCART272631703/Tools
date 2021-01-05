@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.author       = "SCART272631703"
 
-  s.version      = "0.1.0"
+  s.version      = "1"
 
   s.platform     = :ios, "8.0"
 
